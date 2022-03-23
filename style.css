@@ -1,0 +1,27 @@
+html {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    background-color: rgb(39, 37, 37);
+    color: aliceblue;
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+}
+#wrap {
+    
+}
+
+#wrap2 {
+
+}
+
+input {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(100, 68, 68);
+    border-radius: 10px 10px 10px 10px;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    border-color: rgb(100, 68, 68);
+}
