@@ -35,7 +35,7 @@ Machine.prototype.stop = function() {
   // ! Multivare //
 
 function Multivare () {
-    this.food = "гречка"
+    this.food = "гречка";
     Machine.apply(this);
 }
 Multivare.prototype = Object.create(Machine.prototype);
